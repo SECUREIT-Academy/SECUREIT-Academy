@@ -1,6 +1,6 @@
 <p>
   <a href="https://s3c2.org/education-outreach/">
-    <img src="secureit_logo.jpeg" alt="CS Unplugged" width="342" height="96">
+    <img src="secureit_logo.jpeg" alt="SECURE IT" width="342" height="96">
   </a>
 </p>
 
@@ -35,6 +35,6 @@ Thank you to the following organizations for supporting this project:
   <br>
   <br>
   <a href="https://www.nsf.gov/">
-    <img src="NSF_Official_logo_CMYK.eps" alt="National Science Foundation" width="250">
+    <img src="nsf_logo.png" alt="National Science Foundation" width="250">
   </a>
 </p>
